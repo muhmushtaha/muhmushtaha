@@ -1,12 +1,16 @@
-## 👨‍💻 Front-End Architect crafting digital experiences 🌐
+## 👨‍💻 Front-End Architect | Crafting Digital Experiences 🌐
 
-🎓 Graduated with a Bachelor's degree in Multimedia and Web Development from the Islamic University of Gaza. Passionate about leveraging technology to create visually stunning and user-centric web applications.
+🎓 Bachelor’s in Multimedia & Web Development | Islamic University of Gaza
 
-- 💼 Proficient in an array of cutting-edge technologies:
-- 🚀 JavaScript, TypeScript
-- 🌟 React.js, Next.js
-- 🌐 GraphQL, Apollo GraphQL
-- 🎨 HTML5, CSS
-- 📦 GitHub enthusiast
+🚀 Passionate about leveraging technology to create visually stunning, user-centric web applications.
 
-🌍 Transforming ideas into captivating interfaces, I bring creativity and innovation to every project. Let's collaborate and build something remarkable together! 🤝
+💼 **Tech Stack**:
+- **Languages**: JavaScript, TypeScript
+- **Frameworks**: React.js, Next.js
+- **APIs**: GraphQL, Apollo GraphQL
+- **Frontend**: HTML5, CSS
+- **Version Control**: Git, GitHub
+
+🌍 Transforming ideas into captivating interfaces, I bring creativity and innovation to every project.
+
+📌 Check out my projects or connect—let’s build something remarkable together! 🤝
